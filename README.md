@@ -5,8 +5,6 @@ Presentación:
 - [Enlace a Google Slides](https://docs.google.com/presentation/d/13vw3yMGyHtDVNEeRjllpvC0V_05PAu2knl8ksP2IZS0/edit?usp=sharing)
 
 Memoria de practicas Externas:
-- URL (Word)
-- URL (PDF)
 
 ### 1º Desarrollo de aplicaciones Web
 
