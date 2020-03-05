@@ -2,7 +2,7 @@
 ### 2º Desarrollo de aplicaciones Web
 
 Presentación:
-- URL
+- [Enlace a Google Slides](https://docs.google.com/presentation/d/13vw3yMGyHtDVNEeRjllpvC0V_05PAu2knl8ksP2IZS0/edit?usp=sharing)
 
 Memoria de practicas Externas:
 - URL (Word)
@@ -11,4 +11,4 @@ Memoria de practicas Externas:
 ### 1º Desarrollo de aplicaciones Web
 
 Presentacion:
-- [Enlace al Google Slides](https://docs.google.com/presentation/d/1V-djmaIbmZ1Plb2Wp9m18tnp1XHI7DpiXV6-2uZcqL4/edit?usp=sharing)
+- [Enlace a Google Slides](https://docs.google.com/presentation/d/1V-djmaIbmZ1Plb2Wp9m18tnp1XHI7DpiXV6-2uZcqL4/edit?usp=sharing)
